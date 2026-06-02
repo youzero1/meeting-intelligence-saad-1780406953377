@@ -2,7 +2,7 @@ import React from 'react';
 
 function App() {
   return (
-    <div>
+    <div style={{ backgroundColor: 'blue', minHeight: '100vh', color: 'white' }}>
       <h1>Meeting Intelligence</h1>
     </div>
   );
